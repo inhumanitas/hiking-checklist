@@ -1,7 +1,7 @@
 Чеклис в поход
 ==============
 
-A community driven list of staf for hiking.
+A community driven list of stuff for hiking.
 
 - [Чеклис в поход](#Чеклис в поход)
     - [Навигация](#Навигация)
