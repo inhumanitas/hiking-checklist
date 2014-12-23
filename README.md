@@ -139,6 +139,11 @@ A community driven list of stuff for hiking.
 * москитка 
 * репеллент
 * книга
+* Пишушие предметы
+    * ручка
+       * гелевая
+       * шариковая
+    * карандаш
 
 # Contributing
 
